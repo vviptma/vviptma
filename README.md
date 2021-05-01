@@ -19,6 +19,7 @@ Talk to me about
 
 -   Backend development using **PHP,Nodejs,Javascript**
 -   Framework using **Magento 1 & 2,Laravel,Wordpress**
+-   Enviroment developer using **Linux, Windows 10**
 
 ### Connect with me:
 
