@@ -17,10 +17,8 @@
 
 Talk to me about
 
--   Backend development using **PHP,Nodejs,Golang,**
--   Making for **Relational Database Management Systems**
--   Creating scalable cloud architecture using **AWS Cloud**
--   Solving Data structure and algorithm questions in **Python**
+-   Backend development using **PHP,Nodejs,Javascript**
+-   Framework using **Magento 1 & 2,Laravel,Wordpress**
 
 ### Connect with me:
 
@@ -32,7 +30,7 @@ Talk to me about
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][github]
 [<img align="left" alt="docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
 [<img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
 [<img align="left" alt="aws" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][github]
