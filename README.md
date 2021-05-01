@@ -17,7 +17,7 @@
 
 Talk to me about
 
--   Backend development using **Nodejs,Golang**
+-   Backend development using **PHP,Nodejs,Golang,**
 -   Making for **Relational Database Management Systems**
 -   Creating scalable cloud architecture using **AWS Cloud**
 -   Solving Data structure and algorithm questions in **Python**
