@@ -16,9 +16,9 @@
 ## Technologies
 
 Talk to me about
-
+-   Using: Python, Docker, Laravel, Magento, PHP, MYSQL, ReactJs and Wordpress
 -   Backend development using **PHP,Nodejs,Javascript**
--   Framework using **Magento 1 & 2,Laravel,Wordpress**
+-   Framework using **Magento 1 & 2,Laravel 8,Wordpress**
 -   Enviroment developer using **Linux, Windows 10**
 
 ### Connect with me:
